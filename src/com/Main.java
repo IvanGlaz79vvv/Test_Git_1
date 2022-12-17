@@ -17,6 +17,8 @@ public class Main {
         
         System.out.println("Это сообщение добавлено в Git");
 
+        System.out.println("А это добавил см после гиnа в IDEA");
+
         input = reader.;
         System.out.println(input);
     }
