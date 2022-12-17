@@ -15,9 +15,11 @@ public class Main {
         input = reader.readLine();
         System.out.println(input);
         
-        System.out.println("Это сообщение добавлено в Git");
+        System.out.println("Заменил сообщение из гита");
 
-        System.out.println("А это добавил см после гиnа в IDEA");
+        System.out.println("Новое сообщение добавил");
+
+        System.out.println("А это добавил см после гита в IDEA");
 
         input = reader.;
         System.out.println(input);
