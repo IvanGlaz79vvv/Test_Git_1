@@ -14,6 +14,8 @@ public class Main {
 
         input = reader.readLine();
         System.out.println(input);
+        
+        SYstem.out.println("Это сообщение добавлено в Git");
 
         input = reader.;
         System.out.println(input);
